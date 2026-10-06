@@ -10,6 +10,9 @@ int main()
 
 	cout << "Sub :" << 30-20 << "b2" << endl;
 
+	cout << "Add : " << 20 + 30 << "\nThis is of b2" << endl;
+
+
 	return 0;
 
 }
