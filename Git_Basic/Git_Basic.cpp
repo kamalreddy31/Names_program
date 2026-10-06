@@ -8,6 +8,8 @@ int main()
 	cout << "Nanith" << endl;
 	cout  << "im in branch 1 " << endl;
 
+	cout << "Add : " << 20 + 30 << "\nThis is of b2" << endl;
+
 	return 0;
 
 }
